@@ -43,7 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Teht1.cs" />
+    <Compile Include="Teht2.cs" />
+    <Compile Include="Teht3.cs" />
+    <Compile Include="Teht4.cs" />
+    <Compile Include="Teht5.cs" />
+    <Compile Include="Teht6.cs" />
+    <Compile Include="Teht7.cs" />
     <Compile Include="Teht8.cs" />
   </ItemGroup>
   <ItemGroup>
