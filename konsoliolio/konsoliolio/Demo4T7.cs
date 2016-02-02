@@ -39,7 +39,7 @@ namespace ConsoleApplication1
 
         public override string ToString()
         {
-            return nimi + " " + tekijä;
+            return nimi + " tekijä: " + tekijä;
         }
 
 
@@ -58,7 +58,7 @@ namespace ConsoleApplication1
         }
         public override string ToString()
         {
-            return base.ToString() + " " + Kesto;
+            return base.ToString() + " kesto: " + Kesto;
         }
 
 
@@ -77,7 +77,7 @@ namespace ConsoleApplication1
         }
         public override string ToString()
         {
-            return base.ToString() + " " + Sivuja;
+            return base.ToString() + " sivuja: " + Sivuja;
         }
     }
     public class Huone
