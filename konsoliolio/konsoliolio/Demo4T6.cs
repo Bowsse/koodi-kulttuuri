@@ -80,7 +80,7 @@ namespace ConsoleApplication1
 
             cd1.Nimi = "piraatti";
 
-            Console.WriteLine("Huoneesta lyötyy {0} jonka kirjotti {1} ja joku {2} levy jonka tekijä = {3}, ja sitte vielä tommone {4} jonka teki {5}", kirja2.Nimi, kirja2.Tekijä, cd1.Nimi, cd1.Tekijä, cd2.Nimi, cd2.Tekijä);
+            Console.WriteLine("Huoneesta lyötyy {0} jonka kirjotti {1} ja joku {2} levy, ja sitte vielä tommone {3} jonka teki {4}", kirja2.Nimi, kirja2.Tekijä, cd1.Nimi, cd2.Nimi, cd2.Tekijä);
 
 
         }
