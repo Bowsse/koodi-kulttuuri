@@ -43,9 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Demo5T3.cs" />
-    <Compile Include="Human.cs" />
-    <Compile Include="IMammal1.cs" />
+    <Compile Include="Demo7T2.cs" />
+    <Compile Include="Demo7T3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
