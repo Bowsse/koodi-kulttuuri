@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DCB64E33-5BD8-4789-ACAD-E85CF8D5E4D1}</ProjectGuid>
+    <ProjectGuid>{2FDF1B12-E330-4DAE-A6E3-55EBA6455179}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>konsoliolio</RootNamespace>
-    <AssemblyName>konsoliolio</AssemblyName>
+    <RootNamespace>Ostokset</RootNamespace>
+    <AssemblyName>Ostokset</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Demo5T3.cs" />
-    <Compile Include="Human.cs" />
-    <Compile Include="IMammal1.cs" />
+    <Compile Include="Product.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
